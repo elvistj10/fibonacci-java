@@ -1,4 +1,4 @@
-package com.mandirimproject;
+package com.mandiri;
 
 import java.util.Scanner;
 
