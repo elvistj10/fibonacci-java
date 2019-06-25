@@ -1,4 +1,4 @@
-package com.mandiri;
+package com.fibonacci;
 
 import java.util.Scanner;
 
